@@ -46,3 +46,5 @@ node index.js
 
 ---------
 
+# Menu Yang ada di BOT
+
