@@ -29,8 +29,7 @@ npm update
 
 
 ```bash
-git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
+cd botrcs
 npm install
 npm update
 ```
@@ -42,6 +41,8 @@ npm update
 ```bash
 node .
 ```
+
+node index.js
 
 ---------
 
