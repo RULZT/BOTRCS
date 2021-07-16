@@ -5,7 +5,7 @@ Cara Lebih Lengkap Tonton DI Youtube yah
 
 # Lewat HP
 # Bahan - Bahan
-* Scrip BOT  [`Click Here`](https://git-scm.com/downloads)
+* Scrip BOT  [`Click Here`](https://git-scm.com/downloads) > extrak di internal memori
 
 ## Cara Install
 
@@ -15,15 +15,13 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
+cd botrcs
 npm install
 npm update
 ```
 
 npm start
 ---------
-
 
 
 
@@ -49,11 +47,8 @@ npm update
 ---------
 
 ## Run
-
-```bash
-node .
-```
-
+npm start
+atau
 node index.js
 
 ---------
