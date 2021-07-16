@@ -11,15 +11,16 @@ Cara Lebih Lengkap Tonton DI Youtube yah
 #Cara Install
 
 ```bash
-apt update && apt upgrade
+apt update
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
+
+temux-setup-storage
+cd /sdcard
 cd botrcs
-npm install
-npm update
-npm start
+node index.js
 ```
 ---------
 
