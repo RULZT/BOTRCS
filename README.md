@@ -5,7 +5,7 @@ Cara Lebih Lengkap Tonton DI Youtube yah
 
 # Lewat HP
 #Bahan - Bahan
-* Scrip BOT  [`Click Here`](https://git-scm.com/downloads) > extrak di internal memori
+* Scrip BOT  [`Click Here`](https://drive.google.com/file/d/171KD5MqpEXeXyFk4v0qAS6qbWGP1eIpg/view?usp=sharing) > extrak di internal memori
 * install Termux cari di Playstore
 
 #Cara Install
@@ -25,8 +25,8 @@ npm start
 
 # Kalau Lewat Laptop PC atau RDP
 #Bahan - Bahan
-* Scrip BOT  [`Click Here`](https://git-scm.com/downloads)
-* FFMPEG   [`Click Here`](https://git-scm.com/downloads)
+* Scrip BOT  [`Click Here`](https://drive.google.com/file/d/171KD5MqpEXeXyFk4v0qAS6qbWGP1eIpg/view?usp=sharing)
+* FFMPEG   [`Click Here`](https://drive.google.com/drive/folders/172uE7kBP5Ws4_22006LlAZ0iAN64A8T5?usp=sharing)
 
 #Yang Harus di Install
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
