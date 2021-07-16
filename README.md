@@ -38,6 +38,8 @@ npm start
 
 #FOR WINDOWS/VPS/RDP USER
 
+```bash
+
 cd botrcs
 npm install
 npm update
@@ -45,7 +47,7 @@ npm update
 npm start
 atau
 node index.js
-
+```
 ---------
 
 # Menu Yang ada di BOT
