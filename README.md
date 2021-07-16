@@ -38,15 +38,10 @@ npm start
 
 #FOR WINDOWS/VPS/RDP USER
 
-```bash
 cd botrcs
 npm install
 npm update
-```
 
----------
-
-## Run
 npm start
 atau
 node index.js
