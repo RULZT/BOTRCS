@@ -25,12 +25,12 @@ npm start
 
 
 
-# Lewat Laptop PC atau RDP
+# Kalau Lewat Laptop PC atau RDP
 # Bahan - Bahan
 * Scrip BOT  [`Click Here`](https://git-scm.com/downloads)
 * FFMPEG   [`Click Here`](https://git-scm.com/downloads)
 
-# Yang Harus di Install kalau DI PC Laptop atau RDP
+# Yang Harus di Install
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
 * Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
