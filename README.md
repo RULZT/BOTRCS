@@ -4,10 +4,10 @@ Cara Lebih Lengkap Tonton DI Youtube yah
 
 
 # Lewat HP
-# Bahan - Bahan
+#Bahan - Bahan
 * Scrip BOT  [`Click Here`](https://git-scm.com/downloads) > extrak di internal memori
 
-## Cara Install
+#ara Install
 
 ```bash
 apt update && apt upgrade
@@ -26,17 +26,17 @@ npm start
 
 
 # Kalau Lewat Laptop PC atau RDP
-# Bahan - Bahan
+#Bahan - Bahan
 * Scrip BOT  [`Click Here`](https://git-scm.com/downloads)
 * FFMPEG   [`Click Here`](https://git-scm.com/downloads)
 
-# Yang Harus di Install
+#Yang Harus di Install
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
 * Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
-## FOR WINDOWS/VPS/RDP USER
+#FOR WINDOWS/VPS/RDP USER
 
 ```bash
 cd botrcs
