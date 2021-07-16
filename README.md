@@ -18,12 +18,9 @@ apt install imagemagick -y
 cd botrcs
 npm install
 npm update
-```
-
 npm start
+```
 ---------
-
-
 
 # Kalau Lewat Laptop PC atau RDP
 #Bahan - Bahan
