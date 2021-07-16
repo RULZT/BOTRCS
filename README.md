@@ -17,7 +17,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
 
-temux-setup-storage
+termux-setup-storage
 cd /sdcard
 cd botrcs
 node index.js
