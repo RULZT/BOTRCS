@@ -6,6 +6,7 @@ Cara Lebih Lengkap Tonton DI Youtube yah
 # Lewat HP
 #Bahan - Bahan
 * Scrip BOT  [`Click Here`](https://git-scm.com/downloads) > extrak di internal memori
+* install Termux cari di Playstore
 
 #Cara Install
 
