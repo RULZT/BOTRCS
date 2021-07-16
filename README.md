@@ -2,8 +2,8 @@
 Cara Lebih Lengkap Tonton DI Youtube yah
 
 # Bahan - Bahan
-Scrip BOT  [`Click Here`](https://git-scm.com/downloads)
-FFMPEG   [`Click Here`](https://git-scm.com/downloads)
+Scrip BOT  [`Click Here`](https://git-scm.com/downloads) \n
+FFMPEG   [`Click Here`](https://git-scm.com/downloads) \n
 
 # Yang Harus di Install kalau DI PC Laptop atau RDP
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
