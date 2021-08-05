@@ -24,13 +24,16 @@ node index.js
 ```
 ---------
 
-Untuk Menghentikan Bot Bisa close Termux aja
+# Untuk Menghentikan Bot Bisa close Termux aja
 
-untuk menjalankan ulang cukup masukan perintah 
+untuk menjalankan ulang cukup masukan perintah
+```bash
 termux-setup-storage
 cd /sdcard
 cd botrcs
 node index.js
+```
+---------
 
 Tanpa scan ulang
 
