@@ -24,6 +24,17 @@ node index.js
 ```
 ---------
 
+Untuk Menghentikan Bot Bisa close Termux aja
+
+untuk menjalankan ulang cukup masukan perintah 
+termux-setup-storage
+cd /sdcard
+cd botrcs
+node index.js
+
+Tanpa scan ulang
+
+
 # Kalau Lewat Laptop PC atau RDP
 #Bahan - Bahan
 * Scrip BOT  [`Click Here`](https://drive.google.com/file/d/171KD5MqpEXeXyFk4v0qAS6qbWGP1eIpg/view?usp=sharing)
