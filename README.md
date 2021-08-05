@@ -9,6 +9,7 @@ Cara Lebih Lengkap Tonton DI Youtube yah
 * install Termux cari di Playstore [`Click Here`](https://play.google.com/store/apps/details?id=com.termux&hl=in&gl=US) >
 
 #Cara Install
+Masukan Kode dibawah ini di Termux
 
 ```bash
 apt update
