@@ -20,7 +20,7 @@ apt install imagemagick -y
 
 termux-setup-storage
 cd /sdcard
-cd botrcs
+cd RULTZ
 node index.js
 ```
 ---------
@@ -32,7 +32,7 @@ node index.js
 ```bash
 termux-setup-storage
 cd /sdcard
-cd botrcs
+cd RULZT
 node index.js
 ```
 ---------
@@ -55,7 +55,7 @@ Tanpa scan ulang
 
 ```bash
 
-cd botrcs
+cd RULTZ
 npm install
 npm update
 
